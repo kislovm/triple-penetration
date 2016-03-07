@@ -1,0 +1,44 @@
+body {
+    background: url(fon.jpg);
+    background-size: 100%;
+}
+
+.hat {
+    border: 2px solid black;
+    border-radius: 10px;
+    background-color: aliceblue;
+    width: 70%;
+}
+
+.underline {
+    text-decoration: underline;
+}
+
+.announcement {
+    background-color: antiquewhite;
+    border: 1px solid gray;
+    border-radius: 10px;
+    margin-left: 5%;
+    margin-right: 5%;
+}
+
+iframe {
+    border: 3px groove cyan;
+    caption-side: bottom;
+    border-radius: 10px;
+    margin-right: 5%;
+    margin-bottom: 10px;
+}
+
+form {
+    border: 1px solid gray;
+    border-radius: 3px;
+    background-color: darkcyan;
+    width: 350px;
+    padding: 5px;
+    margin-left: 500px;
+}
+
+textarea {
+    resize: none;
+}
