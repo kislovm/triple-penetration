@@ -36,9 +36,15 @@ form {
     background-color: darkcyan;
     width: 350px;
     padding: 5px;
-    margin-left: 500px;
+    margin-right: 100px;
+    float: right;
 }
 
 textarea {
     resize: none;
+}
+
+.perks-list {
+  list-style-position: inside;
+  padding: 0;
 }
